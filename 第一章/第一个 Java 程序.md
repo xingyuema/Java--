@@ -22,7 +22,7 @@ public class HelloWorld{
 <img src="images\image-20220526165421507.png" alt="image-20220526165421507" width="50%" height="50%" />
 <img src="images\image-20220526165234492.png" width="50%" height="50%" />
 
-![image-20220526165234492](images\image-20220526165234492.png)
+
 
 
 
