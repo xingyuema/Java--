@@ -20,6 +20,7 @@ public class HelloWorld{
 3、运行，javac HelloWorld.java 是编译刚才的代码，将高级语言编译为计算机语言；java HelloWorld 为运行编译后产生的 *.class。
 
 <img src="images\image-20220526165421507.png" alt="image-20220526165421507" width="50%" height="50%" />
+<img src="images\image-20220526165234492.png" width="50%" height="50%" />
 
 ![image-20220526165234492](images\image-20220526165234492.png)
 
