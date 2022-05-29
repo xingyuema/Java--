@@ -5,7 +5,7 @@
 准备工作：
 
 1. 勾上显示文件扩展名才会显示 .java 后缀
-2. <img src="images\image-20220526164501943.png" alt="image-20220526164501943" width="50%" height="50%" />
+2.  <img src="images\image-20220526164501943.png" alt="image-20220526164501943" width="50%" height="50%" />
 
 3. 编写代码，注意 public class 后面的 HelloWorld（java 中我们叫它类名）与文件夹名称一致
 
