@@ -6,7 +6,7 @@ Ps: 根据需要选择 x64 （表示计算机是64位的）
 
 查看步骤：
 
-1. <img src="images\image-20220526161931548.png" alt="image-20220526161931548" style="zoom:10%;" />
+1. <img src="images\image-20220526161931548.png" alt="image-20220526161931548" width="50%" height="50%" />
 
 2. <img src="images\image-20220526162721849.png" alt="image-20220526162721849" style="zoom: 10%;" />
 3. <img src="images\image-20220526162823765.png" alt="image-20220526162823765" style="zoom:10%;" />
