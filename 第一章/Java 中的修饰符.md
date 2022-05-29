@@ -21,7 +21,7 @@ public class A{
 
 运行截图：
 
-![image-20220528200416675](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528200416675.png)
+![image-20220528200416675](images\image-20220528200416675.png)
 
 同包下创建一个 B.java，在 B 中访问A。
 
