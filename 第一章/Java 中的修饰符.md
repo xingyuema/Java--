@@ -19,8 +19,7 @@ public class A{
 ```
 
 运行截图：
-
-![image-20220528200416675](images\image-20220528200416675.png)
+<img src="images\image-20220528200416675.png" alt="image-20220526164501943" width="50%" height="50%" />
 
 同包下创建一个 B.java，在 B 中访问A。
 
@@ -34,7 +33,7 @@ public class B{
 ```
 
 运行截图：
+<img src="images\image-20220528201105640.png" alt="image-20220528201105640" width="50%" height="50%" />
 
-![image-20220528201105640](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528201105640.png)
 
 其他的类似，触类旁通即可。
