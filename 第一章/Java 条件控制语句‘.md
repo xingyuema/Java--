@@ -18,8 +18,8 @@ public class Control{
     }
 }
 ```
+<img src="images\image-20220528214656878.png" alt="image-20220528214656878.png" width="50%" height="50%" />
 
-![image-20220528214656878](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528214656878.png)
 
 代码2：
 
@@ -37,8 +37,7 @@ public class Control{
     }
 }
 ```
-
-![image-20220528214837510](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528214837510.png)
+<img src="images\image-20220528214837510.png" alt="image-20220528214837510.png" width="50%" height="50%" />
 
 引入 else if 后的特点：满足一个条件就退出。
 
@@ -56,8 +55,7 @@ public class Control{
     }
 }
 ```
-
-![image-20220528215313791](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528215313791.png)
+<img src="images\image-20220528215313791.png" alt="image-20220528215313791.png" width="50%" height="50%" />
 
 ------
 
@@ -83,6 +81,5 @@ public class Control{
     }
 }
 ```
-
-![image-20220528220742669](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528220742669.png)
+<img src="images\image-20220528220742669.png" alt="image-20220528220742669.png" width="50%" height="50%" />
 
