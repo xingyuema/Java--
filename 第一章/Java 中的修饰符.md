@@ -1,8 +1,7 @@
 # Java 中的修饰符
 
 有 private、default、protected、public 四种修饰符，下图描述了各修饰符的访问权限。
-
-![](images\修饰符.jpg height="50%" width="50%")
+<img src="images\修饰符.jpg" alt="image-20220526164501943" width="50%" height="50%" />
 
 这里的包你可以理解为是一个文件夹。
 
