@@ -2,7 +2,7 @@
 
 有 private、default、protected、public 四种修饰符，下图描述了各修饰符的访问权限。
 
-![](D:\工作\讲课\笔记\第一章\images\修饰符.jpg)
+![](images\修饰符.jpg height="50%" width="50%")
 
 这里的包你可以理解为是一个文件夹。
 
