@@ -59,7 +59,7 @@ public class TestPerson{
 }
 ```
 
-运行截图：
+运行截图：</br>
 <img src="images\image-20220528210410470.png" alt="image-20220528210410470" width="50%" height="50%" />
 
 - **使用带参数的构造器```Person person = new Person("Jack",18);```**
@@ -74,6 +74,6 @@ public class TestPerson1{
 }
 ```
 
-运行截图：
+运行截图：</br>
 <img src="images\image-20220528210659264.png" alt="image-20220528210659264" width="50%" height="50%" />
 
