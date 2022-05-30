@@ -1,8 +1,7 @@
 # Java 中的修饰符
 
 有 private、default、protected、public 四种修饰符，下图描述了各修饰符的访问权限。
-
-![](D:\工作\讲课\笔记\第一章\images\修饰符.jpg)
+<img src="images\修饰符.jpg" alt="image-20220526164501943" width="50%" height="50%" />
 
 这里的包你可以理解为是一个文件夹。
 
@@ -21,7 +20,7 @@ public class A{
 
 运行截图：
 
-![image-20220528200416675](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528200416675.png)
+<img src="images\image-20220528200416675.png" alt="image-20220526164501943" width="50%" height="50%" />
 
 同包下创建一个 B.java，在 B 中访问A。
 
@@ -36,6 +35,7 @@ public class B{
 
 运行截图：
 
-![image-20220528201105640](C:\Users\blue\AppData\Roaming\Typora\typora-user-images\image-20220528201105640.png)
+<img src="images\image-20220528201105640.png" alt="image-20220528201105640" width="50%" height="50%" />
+
 
 其他的类似，触类旁通即可。
