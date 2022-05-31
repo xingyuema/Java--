@@ -1,10 +1,9 @@
 # Java 中的集合
 
 先看一个图吧：</br>
+<img src="images\Collection-Framework-1.png" alt="Collection-Framework-1.png" width="50%" height="50%" />
 
-![](C:\Users\blue\Desktop\Collection-Framework-1.png)
-
-![](C:\Users\blue\Desktop\Collection-Framework-2.png)
+<img src="images\Collection-Framework-2.png" alt="Collection-Framework-2.png" width="50%" height="50%" />
 
 第一个图中只讲：ArrayList、PriorityQueue、HashSet
 
